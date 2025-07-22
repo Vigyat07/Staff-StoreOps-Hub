@@ -77,7 +77,7 @@ A full-stack business web application that helps manage employees, store operati
 - Building a full-stack application from scratch using modern technologies
 - Hands-on experience with API creation, database design, and user authentication
 - Importance of clean UI/UX and modular coding for maintainability
-- End-to-end project ownership and responsibility, simulating real-world software engineering
+
 
 ---
 
@@ -103,7 +103,7 @@ npm start
 
 ## Project Link
 
-[🔗 GitHub Repository](https://github.com/Vigyat07/staff-storeops-hub)
+[ GitHub Repository](https://github.com/Vigyat07/staff-storeops-hub)
 
 ---
 
@@ -111,7 +111,7 @@ npm start
 ## Contact
 
 **Vigyat Bhat**
-[📧 vigyatbhat07@gmail.com](mailto:vigyatbhat07@gmail.com)
-[🔗 LinkedIn](https://linkedin.com/in/vigyatbhat)
+[ vigyatbhat07@gmail.com](mailto:vigyatbhat07@gmail.com)
+[ LinkedIn](https://linkedin.com/in/vigyatbhat)
 
 
